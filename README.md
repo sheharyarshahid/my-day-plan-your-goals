@@ -1,4 +1,4 @@
-# My Day : Plan your Goals :sunrise:
+# My Day : Plan your Goals 🔆
 ---
 Welcome to the official repo of My Day app. A minimal Todo app for planning daily tasks, adding steps, mark tasks as important and many unique and exciting features are on their way.
 
